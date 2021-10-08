@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xiangjerryhe
 - 👀 I’m interested in Natural Language Processing, Satellite Image analysis and Algorithmic trading
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to build websites
+- 💞️ I’m looking to collaborate on implementations of statistical methods (e.g. random forest) in ES6 javascript
 - 📫 How to reach me ...
 
 <!---
